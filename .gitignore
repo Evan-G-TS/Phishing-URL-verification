@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+phishing-detector-2de7d-firebase-adminsdk-fbsvc-ce0a95e8da.json
