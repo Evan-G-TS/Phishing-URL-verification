@@ -1,0 +1,5 @@
+Flask
+firebase-admin
+# Add your ML dependencies below
+scikit-learn
+pandas
